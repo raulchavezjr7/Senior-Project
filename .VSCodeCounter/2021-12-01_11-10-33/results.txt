@@ -1,0 +1,105 @@
+Date : 2021-12-01 11:10:33
+Directory : c:\Users\Kurly\Documents\School\Fall 2021\Senior Project
+Total : 44 files,  2611 codes, 196 comments, 243 blanks, all 3050 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Dart       |         20 |      2,071 |         43 |        168 |      2,282 |
+| JSON       |          3 |        180 |          0 |          3 |        183 |
+| XML        |          9 |        130 |         51 |         11 |        192 |
+| Groovy     |          3 |         86 |          3 |         22 |        111 |
+| HTML       |          1 |         79 |         17 |          6 |        102 |
+| YAML       |          2 |         31 |         81 |         19 |        131 |
+| Markdown   |          2 |         13 |          0 |          9 |         22 |
+| Swift      |          1 |         12 |          0 |          2 |         14 |
+| Properties |          2 |          8 |          1 |          2 |         11 |
+| C++        |          1 |          1 |          0 |          1 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                       |         44 |      2,611 |        196 |        243 |      3,050 |
+| bike_power_meter                                                                                                                        |         44 |      2,611 |        196 |        243 |      3,050 |
+| bike_power_meter\android                                                                                                                |         12 |        163 |         53 |         33 |        249 |
+| bike_power_meter\android\app                                                                                                            |          8 |        122 |         52 |         22 |        196 |
+| bike_power_meter\android\app\src                                                                                                        |          7 |         69 |         49 |          9 |        127 |
+| bike_power_meter\android\app\src\debug                                                                                                  |          1 |          4 |          3 |          1 |          8 |
+| bike_power_meter\android\app\src\main                                                                                                   |          5 |         61 |         43 |          7 |        111 |
+| bike_power_meter\android\app\src\main\res                                                                                               |          4 |         26 |         32 |          6 |         64 |
+| bike_power_meter\android\app\src\main\res\drawable                                                                                      |          1 |          4 |          7 |          2 |         13 |
+| bike_power_meter\android\app\src\main\res\drawable-v21                                                                                  |          1 |          4 |          7 |          2 |         13 |
+| bike_power_meter\android\app\src\main\res\values                                                                                        |          1 |          9 |          9 |          1 |         19 |
+| bike_power_meter\android\app\src\main\res\values-night                                                                                  |          1 |          9 |          9 |          1 |         19 |
+| bike_power_meter\android\app\src\profile                                                                                                |          1 |          4 |          3 |          1 |          8 |
+| bike_power_meter\android\gradle                                                                                                         |          1 |          5 |          1 |          1 |          7 |
+| bike_power_meter\android\gradle\wrapper                                                                                                 |          1 |          5 |          1 |          1 |          7 |
+| bike_power_meter\ios                                                                                                                    |          7 |        222 |          2 |          9 |        233 |
+| bike_power_meter\ios\Runner                                                                                                             |          7 |        222 |          2 |          9 |        233 |
+| bike_power_meter\ios\Runner\Assets.xcassets                                                                                             |          3 |        148 |          0 |          4 |        152 |
+| bike_power_meter\ios\Runner\Assets.xcassets\AppIcon.appiconset                                                                          |          1 |        122 |          0 |          1 |        123 |
+| bike_power_meter\ios\Runner\Assets.xcassets\LaunchImage.imageset                                                                        |          2 |         26 |          0 |          3 |         29 |
+| bike_power_meter\ios\Runner\Base.lproj                                                                                                  |          2 |         61 |          2 |          2 |         65 |
+| bike_power_meter\lib                                                                                                                    |         19 |      2,057 |         33 |        161 |      2,251 |
+| bike_power_meter\lib\helper                                                                                                             |          2 |        282 |          9 |         25 |        316 |
+| bike_power_meter\lib\models                                                                                                             |          4 |        115 |          0 |         27 |        142 |
+| bike_power_meter\lib\providers                                                                                                          |          3 |        224 |         15 |         22 |        261 |
+| bike_power_meter\lib\screens                                                                                                            |          8 |      1,301 |          9 |         79 |      1,389 |
+| bike_power_meter\lib\widgets                                                                                                            |          1 |         65 |          0 |          4 |         69 |
+| bike_power_meter\test                                                                                                                   |          1 |         14 |         10 |          7 |         31 |
+| bike_power_meter\web                                                                                                                    |          2 |        114 |         17 |          7 |        138 |
++-----------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                                | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\README.md                                                     | Markdown   |         10 |          0 |          7 |         17 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\analysis_options.yaml                                         | YAML       |          3 |         23 |          4 |         30 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\app\build.gradle                                      | Groovy     |         53 |          3 |         13 |         69 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\app\src\debug\AndroidManifest.xml                     | XML        |          4 |          3 |          1 |          8 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\app\src\main\AndroidManifest.xml                      | XML        |         35 |         11 |          1 |         47 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\app\src\main\res\drawable-v21\launch_background.xml   | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\app\src\main\res\drawable\launch_background.xml       | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\app\src\main\res\values-night\styles.xml              | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\app\src\main\res\values\styles.xml                    | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\app\src\profile\AndroidManifest.xml                   | XML        |          4 |          3 |          1 |          8 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\build.gradle                                          | Groovy     |         25 |          0 |          5 |         30 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\gradle.properties                                     | Properties |          3 |          0 |          1 |          4 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\gradle\wrapper\gradle-wrapper.properties              | Properties |          5 |          1 |          1 |          7 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\android\settings.gradle                                       | Groovy     |          8 |          0 |          4 |         12 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\ios\Runner\AppDelegate.swift                                  | Swift      |         12 |          0 |          2 |         14 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json   | JSON       |        122 |          0 |          1 |        123 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json | JSON       |         23 |          0 |          1 |         24 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md     | Markdown   |          3 |          0 |          2 |          5 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\ios\Runner\Base.lproj\LaunchScreen.storyboard                 | XML        |         36 |          1 |          1 |         38 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\ios\Runner\Base.lproj\Main.storyboard                         | XML        |         25 |          1 |          1 |         27 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\ios\Runner\Runner-Bridging-Header.h                           | C++        |          1 |          0 |          1 |          2 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\helper\bt_helper.dart                                     | Dart       |        270 |          8 |         21 |        299 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\helper\db_helper.dart                                     | Dart       |         12 |          1 |          4 |         17 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\main.dart                                                 | Dart       |         70 |          0 |          4 |         74 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\models\goal_helper.dart                                   | Dart       |         52 |          0 |          9 |         61 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\models\historical_stats.dart                              | Dart       |         33 |          0 |          8 |         41 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\models\http_exception.dart                                | Dart       |          8 |          0 |          3 |         11 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\models\stop_watch.dart                                    | Dart       |         22 |          0 |          7 |         29 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\providers\auth.dart                                       | Dart       |        114 |          0 |         11 |        125 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\providers\ride_data.dart                                  | Dart       |         89 |         15 |          8 |        112 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\providers\user_specific_data.dart                         | Dart       |         21 |          0 |          3 |         24 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\screens\auth_screen.dart                                  | Dart       |        295 |          3 |         14 |        312 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\screens\btl_connect_screen.dart                           | Dart       |        286 |          0 |         14 |        300 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\screens\google_map_screen.dart                            | Dart       |         16 |          0 |          3 |         19 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\screens\historical_stat.screen.dart                       | Dart       |         56 |          0 |          4 |         60 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\screens\new_user_screen.dart                              | Dart       |         46 |          0 |          6 |         52 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\screens\ride_screen.dart                                  | Dart       |        413 |          5 |         27 |        445 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\screens\set_goal_screen.dart                              | Dart       |         96 |          0 |          7 |        103 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\screens\user_main_menu.dart                               | Dart       |         93 |          1 |          4 |         98 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\lib\widgets\user_data.dart                                    | Dart       |         65 |          0 |          4 |         69 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\pubspec.yaml                                                  | YAML       |         28 |         58 |         15 |        101 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\test\widget_test.dart                                         | Dart       |         14 |         10 |          7 |         31 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\web\index.html                                                | HTML       |         79 |         17 |          6 |        102 |
+| c:\Users\Kurly\Documents\School\Fall 2021\Senior Project\bike_power_meter\web\manifest.json                                             | JSON       |         35 |          0 |          1 |         36 |
+| Total                                                                                                                                   |            |      2,611 |        196 |        243 |      3,050 |
++-----------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

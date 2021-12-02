@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "bike_power_meter",
+            "cwd": "bike_power_meter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bike_power_meter (profile mode)",
+            "cwd": "bike_power_meter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
