@@ -5,7 +5,6 @@ import 'package:bike_power_meter/screens/btl_connect_screen.dart';
 import 'package:bike_power_meter/screens/google_map_screen.dart';
 import 'package:bike_power_meter/screens/historical_stat.screen.dart';
 import 'package:bike_power_meter/screens/auth_screen.dart';
-import 'package:bike_power_meter/screens/new_user_screen.dart';
 import 'package:bike_power_meter/screens/set_goal_screen.dart';
 import 'package:bike_power_meter/screens/user_main_menu.dart';
 import 'package:flutter/material.dart';
@@ -53,7 +52,6 @@ class MyApp extends StatelessWidget {
                 ),
           routes: {
             UserMainMenu.routeName: (ctx) => const UserMainMenu(),
-            NewUserScreen.routeName: (ctx) => const NewUserScreen(),
             HistoricalStatScreen.routeName: (ctx) =>
                 const HistoricalStatScreen(),
             BTScreen.routeName: (ctx) => const BTScreen(),
