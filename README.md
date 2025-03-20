@@ -2,7 +2,7 @@
 
 This project is an application that gathers data from a power meter unit attached to a bicycle. Power output to a bicycle is hard to measure. This is because inclines and gear selection makes it impossible to measure power with only acceleration, speed, and rotations per minute. This application talks to that power meter unit using bluetooth where it is communicated power, rpm, and speed. 
 
-This is the software side of my engineering senior project. All the code written for this software project was written by me using help and examples from the official flutter documentation. All screenshots were from the application running on a Pixel 5.
+This is the software side of my senior engineering project. It was created in Android Studios using Android IDE. It uses the Flutter framework and the Dart language.  All the code written for this software project was written by me using help and examples from the official Flutter documentation. All screenshots were from the application running on a Pixel 5.
 
 
 Login Screen using Google server to validate and create
